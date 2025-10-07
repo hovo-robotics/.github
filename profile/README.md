@@ -12,4 +12,5 @@ The focus right now is **sim-first**, so anyone can experiment today. Hardware d
 ### Current focus:
 
 Control stack: [hovo_ros2](https://github.com/hovo-robotics/hovo_ros2)
+
 RL-based locomotion: [hovo_isaaclab](https://github.com/hovo-robotics/hovo_isaaclab)
