@@ -1,6 +1,6 @@
 ## Overview
 
-**HOVO** is an **open source initiative for humanoid development** that you can simulate and program, the focus right now is **sim-first**, so anyone can experiment today.
+**HOVO** is an **open source initiative for humanoid robots** that you can simulate and program, the focus right now is **sim-first**, so anyone can experiment today.
 
 <img width="1845" height="961" alt="hovo_v1_urdf" src="https://github.com/user-attachments/assets/97e37a8f-9362-486d-a928-348eaf1a1b1b" />
 
